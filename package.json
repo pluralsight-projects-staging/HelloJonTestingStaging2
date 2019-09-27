@@ -1,0 +1,11 @@
+{
+  "name": "hellojontestingstaging2",
+  "version": "1.0.0",
+  "description": "Hello Jon Testing Staging 2 Pluralsight Project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "jon-friskics@pluralsight.com",
+  "license": "ISC"
+}
